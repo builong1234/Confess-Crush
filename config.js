@@ -1,10 +1,7 @@
 const CONFIG = {
     titleWeb: "Hello Bạn",
     introTitle: 'Chào bạn cute',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Bạn ơi Đông lạnh gần kề, bao nhiêu lớp áo cũng không bằng love you`,
     btnIntro: '^^Ấn Zô Đây Nè HiHi^^',
     title: 'Ấn Zô rùi thì làm người yêu mình nhé 🥰',
     desc: 'Yêu bạn ',
@@ -16,5 +13,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 8h, mình qua đón đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://github.com/builong1234/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
